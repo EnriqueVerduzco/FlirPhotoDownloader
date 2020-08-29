@@ -16,7 +16,8 @@ options.add_experimental_option("prefs", {
           "profile.managed_default_content_settings.images": 2,
           "profile.managed_default_content_settings.popups":2,
           "profile.default_content_setting_values.notifications":2,
-          "download.default_directory": r"/home/citfresno/Desktop/CIT/DigitalPhotos/Camera1",
+ #Change Directory
+          "download.default_directory": r"/DIRECTORY/",
           "download.prompt_for_download": False,
           "download.directory_upgrade": True,
           "safebrowsing.enabled": True
